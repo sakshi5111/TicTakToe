@@ -1,0 +1,19 @@
+td{
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    border: 5px solid black;
+    font-size: 100px;
+}
+
+table{
+    margin-left: 400px;
+    margin-top: 50px;
+}
+
+.jumbotron{
+    margin: 30px 50px;
+    background-color: rgb(192, 189, 187);
+    padding: 10px 50px;
+    border-radius: 20px;
+}
